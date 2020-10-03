@@ -1,6 +1,6 @@
 # Getting Started #
 
-These steps will get this sample application running for you using DigitalOcean.
+These will get this sample application running for you using DigitalOcean.
 
 **Note: Following these steps will result in charges for the use of DigitalOcean services**
 
