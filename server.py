@@ -9,7 +9,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):
         self.send_response(HTTPStatus.OK)
         self.end_headers()
-        msg = 'Hi Bella Marias! YOu rock...you requested %s' % (self.path)
+        msg = 'Hi Bella Babes.  It is me. you requested %s' % (self.path)
         self.wfile.write(msg.encode())
 
 
